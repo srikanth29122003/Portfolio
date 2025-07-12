@@ -170,7 +170,7 @@ const Contact = () => {
                     value={formData.message}
                     onChange={handleInputChange}
                     required
-                    placeholder="Tell me about your project or opportunity..."
+                    placeholder="you can send message...."
                   ></textarea>
                 </div>
 
