@@ -67,7 +67,7 @@ const Contact = () => {
           <div className="col-12">
             <h2 className="section-title slide-up">Let's Connect!</h2>
             <p className="text-center lead mb-5">
-              Have a project or opportunity? Feel free to reach out.
+              Looking for a passionate developer? Let’s talk!
             </p>
           </div>
         </div>
